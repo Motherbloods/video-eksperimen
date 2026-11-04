@@ -1,0 +1,7 @@
+[
+  "Saldo cuma cukup buat satu pesanan, tapi dua pesanan bisa lolos. Ini penyebabnya.",
+  "Bayangin ada dua klik yang masuk ke server di waktu yang hampir sama.",
+  "Dua-duanya baca saldo yang sama, seratus ribu. Terus sama-sama ngurangin. Hasilnya, dua pesanan tercatat, padahal saldonya cuma cukup buat satu.",
+  "Penyebabnya, dua proses baca data duluan, sebelum salah satunya selesai nulis.",
+  "Solusinya, kunci data yang lagi dipakai, atau pakai transaksi database. Follow buat belajar ngoding yang dijelasin visual."
+]
